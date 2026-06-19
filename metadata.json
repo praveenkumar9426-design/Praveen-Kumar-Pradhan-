@@ -1,0 +1,6 @@
+{
+  "name": "AI Interactive Study Hub",
+  "description": "An interactive learning portal allowing students to generate custom courses, study flashcards, and take quizzes with a dedicated AI teaching assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
